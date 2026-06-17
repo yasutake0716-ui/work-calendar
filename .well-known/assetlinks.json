@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yasutake0716_ui.twa",
+        "sha256_cert_fingerprints": ["4C:EF:F8:81:60:97:2D:E7:AB:03:BB:BC:54:36:13:07:54:39:3F:A4:49:9E:75:AA:30:51:A8:99:00:DA:B5:25"]
+      }
+    }]
